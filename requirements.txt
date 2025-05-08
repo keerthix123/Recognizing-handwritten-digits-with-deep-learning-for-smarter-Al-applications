@@ -1,0 +1,10 @@
+python digit_recognizer.py
+
+---
+
+### 📄 `requirements.txt`
+
+```text
+tensorflow
+numpy
+matplotlib
